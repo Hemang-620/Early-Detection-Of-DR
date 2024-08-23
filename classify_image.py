@@ -1,4 +1,4 @@
-\import numpy as np
+import numpy as np
 from PIL import Image
 from keras.models import load_model
 
